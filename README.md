@@ -4,6 +4,6 @@
 
 ## 火车站售票时间表
 
-·cn_ticket_sale_time.json·
+`cn_ticket_sale_time.json`
 
 根据 12306 网站提供的各车站售票时间整理成 JSON 格式供需求者直接使用，数据中的所有时间均为北京时间。
